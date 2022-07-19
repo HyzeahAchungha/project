@@ -1,0 +1,68 @@
+.bless{
+    display: flex;
+}
+#lm{
+    margin: 50px;
+}
+.vio{
+    margin: 50px;
+    color: red;
+}
+.pic{
+    display: flex;
+    background-color: red;
+    border: 5px solid red;
+}
+img{
+    width: 5%;
+    background-color: red;
+    border: 2px solid red;
+}
+#pre{
+    margin: 20px;
+}
+.jci{
+    display: flex;
+}
+.hy{
+    display: flex;
+}
+.ph{
+    display: flex;
+}
+.pen{
+    border: 5px solid black;
+    margin: 20px;
+    color: white;
+    background-color: black;
+    display: inline;
+    
+}
+#blue{
+    color:white;
+    border: 2px solid red;
+    background-color: red;
+}
+#nee{
+    color: white;
+    
+}
+.phone{
+    border: 2px solid black;
+    color: white;
+    background-color: black;
+} 
+button{
+    background-color: blue;
+}
+span{
+    color: red;
+}
+#re{
+    color: white;
+}
+#ivy{
+    color: white;
+}
+
+
