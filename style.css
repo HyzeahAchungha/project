@@ -64,5 +64,19 @@ span{
 #ivy{
     color: white;
 }
+.bb{
+    color: rgb(56, 221, 56);
+    
+}
+.mom{
+    background-color: rgb(68, 197, 68);
+border: 2px solid rgb(63, 236, 63);
+}
+.nono{
+    display: table;
+    display: table-cellss;
+    background-color: gainsboro;
+}
+
 
 
